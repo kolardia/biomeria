@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PODPIS</string>
+
+    <string name="hello_world">Biometria na przykładzie podpisu biometrycznego</string>
+    <string name="action_settings">Settings</string>
+    <string name="scor">Wynik algorytmu</string>
+
+</resources>
